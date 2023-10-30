@@ -18,7 +18,7 @@
 ## Scatter plot of predictions 
 <img width="362" alt="Screenshot 2023-10-29 224503" src="https://github.com/ahcano/cypto_clustering/assets/141194281/24f2e6b1-9f40-47b7-96fd-2737a9984578">
 
-## Using PCA Data, the optimal value of k was predicted, matching as 4 again 
+## Using PCA Data, the optimal value of k was predicted, matching as 4 again like with the original data
 <img width="363" alt="Screenshot 2023-10-29 233713" src="https://github.com/ahcano/cypto_clustering/assets/141194281/21a98da0-5a0f-48a9-8e18-6b48fffd83ab">
 
 
