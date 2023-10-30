@@ -16,7 +16,7 @@
 <img width="362" alt="Screenshot 2023-10-29 224503" src="https://github.com/ahcano/cypto_clustering/assets/141194281/24f2e6b1-9f40-47b7-96fd-2737a9984578">
 
 ## Usage
-The code is in Jupyter notebook visual_data_analysis.ipynb
+The code is in Jupyter notebook crypto_investments.ipynb
 
 ## Contributors
 Ana Cano - Author ana.cano@utoronto.ca
