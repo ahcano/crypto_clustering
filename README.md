@@ -1,4 +1,5 @@
 # Crypto Clustering - This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
+![10-5-challenge-image](https://github.com/ahcano/cypto_clustering/assets/141194281/2a0ae601-0497-4bc4-a0ed-875f8a4f956d)
 
 ## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file.
 ## The StandardScaler() module from scikit-learn was applied to normalize the data.
@@ -16,6 +17,10 @@
 
 ## Scatter plot of predictions 
 <img width="362" alt="Screenshot 2023-10-29 224503" src="https://github.com/ahcano/cypto_clustering/assets/141194281/24f2e6b1-9f40-47b7-96fd-2737a9984578">
+
+## Using PCA Data, the optimal value of k was predicted
+<img width="363" alt="Screenshot 2023-10-29 233713" src="https://github.com/ahcano/cypto_clustering/assets/141194281/21a98da0-5a0f-48a9-8e18-6b48fffd83ab">
+
 
 ## Usage
 The code is in Jupyter notebook crypto_investments.ipynb
