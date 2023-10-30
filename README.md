@@ -9,7 +9,7 @@
 ## Visual of the crypto coin variations based on the statistical data above
 <img width="407" alt="Screenshot 2023-10-29 224430" src="https://github.com/ahcano/cypto_clustering/assets/141194281/94c45a8d-f188-495d-8d1a-fba5afb8f3a4">
 
-## Elbow method applied to find the optimal number of k clusters  
+## Elbow method applied to find the optimal number of k clusters, which is 4 
 <img width="352" alt="Screenshot 2023-10-29 224451" src="https://github.com/ahcano/cypto_clustering/assets/141194281/1b8d5c1b-9ca7-4bd6-99de-418947eb97d0">
 
 ## Scatter plot of predictions 
