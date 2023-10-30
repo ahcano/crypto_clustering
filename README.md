@@ -1,6 +1,8 @@
 # Crypto Clustering - This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
 
-## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file
+## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file.
+## The StandardScaler() module from scikit-learn was applied to normalize the data.
+
 <img width="738" alt="Screenshot 2023-10-29 224323" src="https://github.com/ahcano/cypto_clustering/assets/141194281/2498b7ed-dde5-4e80-ac54-e8c2858f88b8">
 
 ## A summary of price change statistics through various time periods  
