@@ -4,12 +4,9 @@
 
 # This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
 
-## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file.
+## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file. The StandardScaler() module from scikit-learn was applied to normalize the data.
+
 <img width="738" alt="Screenshot 2023-10-29 224323" src="Screenshot 2023-10-29 224323.png">
-
-## The StandardScaler() module from scikit-learn was applied to normalize the data.
-
-<img width="738" alt="" src="Screenshot 2023-10-29 224323.png">
 
 ## A summary of price change statistics through various time periods  
 <img width="717" alt="Screenshot 2023-10-29 224419" src="Screenshot 2023-10-29 224419.png">
