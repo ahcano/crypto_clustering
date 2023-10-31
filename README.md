@@ -4,7 +4,7 @@
 ## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file.
 ## The StandardScaler() module from scikit-learn was applied to normalize the data.
 
-<img width="738" alt="Screenshot 2023-10-29 224323" src="https://github.com/ahcano/cypto_clustering/assets/141194281/2498b7ed-dde5-4e80-ac54-e8c2858f88b8.png">
+<img width="738" alt="" src="Screenshot 2023-10-29 224323.png">
 
 ## A summary of price change statistics through various time periods  
 <img width="717" alt="Screenshot 2023-10-29 224419" src="https://github.com/ahcano/cypto_clustering/assets/141194281/446d2b61-6238-470d-875c-3a7a6face99b">
