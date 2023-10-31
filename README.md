@@ -6,7 +6,7 @@
 <img width="738" alt="" src="Screenshot 2023-10-29 224323.png">
 
 ## A summary of price change statistics through various time periods  
-<img width="717" alt="Screenshot 2023-10-29 224419" src="446d2b61-6238-470d-875c-3a7a6face99b.png">
+<img width="717" alt="Screenshot 2023-10-29 224419" src="Screenshot 2023-10-29 224419.png">
 
 ## Visual of the crypto coin variations based on the statistical data above
 <img width="407" alt="Screenshot 2023-10-29 224430" src="https://github.com/ahcano/cypto_clustering/assets/141194281/94c45a8d-f188-495d-8d1a-fba5afb8f3a4">
