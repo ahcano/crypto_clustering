@@ -1,6 +1,8 @@
 
-# Crypto Cluster![10-5-challenge-image.png](https://github.com/ahcano/cypto_clustering/assets/141194281/608ed161-4905-40c6-88b9-226956aa83b6)
-ing - This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
+# Crypto Clustering 
+![10-5-challenge-image.png](https://github.com/ahcano/cypto_clustering/assets/141194281/608ed161-4905-40c6-88b9-226956aa83b6)
+
+# This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
 
 ## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file.
 
