@@ -1,6 +1,9 @@
-# Crypto Clustering - This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
+
+# Crypto Cluster![10-5-challenge-image.png](https://github.com/ahcano/cypto_clustering/assets/141194281/608ed161-4905-40c6-88b9-226956aa83b6)
+ing - This Fintech project proposes a cryptocurrency investment strategy through the use of clustering methods and statistics.
 
 ## The following dataframe was created to store 41 cryptocurrency prices read from crypto_market_data csv file.
+
 ## The StandardScaler() module from scikit-learn was applied to normalize the data.
 
 <img width="738" alt="" src="Screenshot 2023-10-29 224323.png">
@@ -9,16 +12,16 @@
 <img width="717" alt="Screenshot 2023-10-29 224419" src="Screenshot 2023-10-29 224419.png">
 
 ## Visual of the crypto coin variations based on the statistical data above
-<img width="407" alt="Screenshot 2023-10-29 224430" src="https://github.com/ahcano/cypto_clustering/assets/141194281/94c45a8d-f188-495d-8d1a-fba5afb8f3a4">
+<img width="407" alt="Screenshot 2023-10-29 224430" src="Screenshot 2023-10-29 224430.png">
 
 ## Elbow method applied to find the optimal number of k clusters, which is 4 
-<img width="352" alt="Screenshot 2023-10-29 224451" src="https://github.com/ahcano/cypto_clustering/assets/141194281/1b8d5c1b-9ca7-4bd6-99de-418947eb97d0">
+<img width="352" alt="Screenshot 2023-10-29 224451" src="Screenshot 2023-10-29 224451.png">
 
 ## Scatter plot of predictions 
-<img width="362" alt="Screenshot 2023-10-29 224503" src="https://github.com/ahcano/cypto_clustering/assets/141194281/24f2e6b1-9f40-47b7-96fd-2737a9984578">
+<img width="362" alt="Screenshot 2023-10-29 224503" src="Screenshot 2023-10-29 224503.png">
 
 ## Using PCA Data, the optimal value of k was predicted, matching as 4 again like with the original data
-<img width="363" alt="Screenshot 2023-10-29 233713" src="https://github.com/ahcano/cypto_clustering/assets/141194281/21a98da0-5a0f-48a9-8e18-6b48fffd83ab">
+<img width="363" alt="Screenshot 2023-10-29 233713" src="Screenshot 2023-10-29 233713.png">
 
 
 ## Usage
